@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 <h1 align="">Hi there 👋</h1>
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/antonio-junior)
+![status](https://img.shields.io/badge/status-up-brightgreen) [![Profile last updated](https://img.shields.io/github/last-commit/antonio-junior/antonio-junior/master?label=Last%20updated&style=flat)](https://github.com/antonio-junior/antonio-junior/commits) [![Gmail Badge](https://img.shields.io/badge/-acsjunior1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:acsjunior1@gmail.com "Connect via Email") ![](https://visitor-badge.glitch.me/badge?page_id=github.com/antonio-junior) [![Linkedin Badge](https://img.shields.io/badge/-antoniojuniorr-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoniojuniorr/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@AntonioCSJr_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=AntonioCSJr_ "Follow on Twitter")
+
+
 
 😄 I'm Antônio Junior. A Quality Assurance Automation Engineer from Brazil.
 
@@ -37,9 +40,4 @@ Here are some ideas to get you started:
  </ul>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-junior&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="antonio-junior" /></p>
-
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/antoniocsjr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antoniocsjr_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/antoniojuniorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoniojuniorr" height="30" width="40" /></a>
 
