@@ -11,14 +11,19 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 
-<h1 align="center">Hi 👋, I'm Antônio Junior</h1>
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/antonio-junior)
-<h3 align="center">A Quality Assurance Automation Engineer from Brazil</h3>
+
+<h1 align="">Hi there 👋</h1>
+
+![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/antonio-junior)
+
+😄 I'm Antônio Junior. A Quality Assurance Automation Engineer from Brazil.
+
+🌱 I’m currently Working with javascript, cypress, Java, Selenium, docker, AWS
 
 <h2 align="left">💻 Skills</h2>
 <ul>
