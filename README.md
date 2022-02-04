@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <h1 align="center">Hi 👋, I'm Antônio Junior</h1>
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/antonio-junior)
 <h3 align="center">A Quality Assurance Automation Engineer from Brazil</h3>
 
-<h2 align="left">Skills</h2>
+<h2 align="left">💻 Skills</h2>
 <ul>
   <li>Unit tests, Test Integration, End-to-End tests, API tests</li>
 <li>Java, Maven, Rest Assured</li>
@@ -29,11 +31,10 @@ Here are some ideas to get you started:
 <li>AWS (EC2, ECS, S3, Lambda, CloudWatch) </li>
  </ul>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-junior&show_icons=true&locale=en&layout=compact" alt="antonio-junior" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-junior&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="antonio-junior" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/antoniocsjr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antoniocsjr_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antoniojuniorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoniojuniorr" height="30" width="40" /></a>
-  
-  - 📫 How to reach me **acsjunior1@gmail.com**
+
