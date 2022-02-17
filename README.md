@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 😄 I'm Antônio Junior. A Quality Assurance Automation Engineer from Brazil.
 
-🌱 I’m currently Working with javascript, cypress, Java, Selenium, docker, AWS
+🌱 I’m currently Working with javascript, cypress, Java, Selenium, docker
+
+💭 I’m currently learning Cloud computing + AWS + Serverless computing
 
 <h2 align="left">💻 Skills</h2>
 <ul>
