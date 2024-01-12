@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <h2 align="left">💻 Skills</h2>
 <ul>
   <li>Unit tests, Test Integration, End-to-End tests, API tests</li>
-<li>Java, Maven, Rest Assured</li>
-<li>Javascript ES6, React, Nodejs, TypeScript</li>
-<li>MySQL, MongoDB, Postgres</li>
+<li><b>Java, Selenium</b>, Maven, Rest Assured</li>
+<li><b>Javascript, Selenium</b>, React, Nodejs, TypeScript</li>
+<li>MySQL, Oracle, MongoDB, Postgres</li>
 <li> Docker</li>
 <li>GraphQL, REST APIs</li>
 <li>AWS (EC2, ECS, S3, Lambda, CloudWatch) </li>
