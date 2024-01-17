@@ -13,7 +13,7 @@
 
 <h2 align="left">💻 Skills</h2>
 <ul>
-  <li>Unit tests, Test Integration, End-to-End tests, API tests</li>
+  <li>Unit tests, Integration tests, End-to-End tests, API tests</li>
 <li><b>Java, Selenium</b>, Maven, Rest Assured</li>
 <li><b>Javascript, Cypress</b>, React, Nodejs, TypeScript</li>
 <li>MySQL, Oracle, MongoDB, Postgres</li>
